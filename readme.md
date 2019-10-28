@@ -14,7 +14,7 @@ In the middle of the screen you will see a row of random words.
   * you can save your score. Who knows, maybe you'll make it to the leadership boad :)
 
 # Screenshots
-![screenshot](https://github.com/lsliwaradioluz/vue-snake/blob/gh-pages/snake-screenshot.jpg)
+![screenshot](https://github.com/lsliwaradioluz/typing-speed-test/blob/gh-pages/typingtest-screenshot.jpg)
 
 # Technologies 
   * HTML5
