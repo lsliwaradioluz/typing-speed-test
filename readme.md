@@ -26,7 +26,7 @@ In the middle of the screen you will see a row of random words.
   * vuex 3.1.1
 
 # Demo
-Go on and [test yourself](https://lsliwaradioluz.github.io/vue-snake)
+Go on and [test yourself](https://lsliwaradioluz.github.io/typing-speed-test/)
 
 # Contact 
 Feel free to email me: lukasz.mateusz.sliwa@gmail.com
